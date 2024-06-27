@@ -112,7 +112,7 @@ Agora você sabe como usar o K-Means para agrupar dados! É uma ferramenta poder
 
 **Me siga para mais**
 
-Gostou do que aprendeu? Me siga no[Linkedin](https://www.linkedin.com/in/alessandra-araujo-a583a2296/) para mais dicas incríveis sobre Machine Learning e Data Science!
+Gostou do que aprendeu? Me siga no [Linkedin](https://www.linkedin.com/in/alessandra-araujo-a583a2296/) para mais dicas incríveis sobre Machine Learning e Data Science!
 
 ## ⚒️Ferrramentas de produção:
 
